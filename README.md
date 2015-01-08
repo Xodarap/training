@@ -21,7 +21,7 @@
 
 ### Deploy
 
-- Todo
+- Create the static files: `bundle exec middleman build`
 
 
 ### Features
