@@ -6,18 +6,18 @@ This is to ensure that you know whom to reach out to in case you have any questi
 Who is the Chief Privacy Officer?
 - [ ] Brian Lewis
 - [ ] Ben Uphoff
-- [ ] Adam Leko
-- [x] Travis Good
+- [ ] Robert Hopton
+- [x] Ben West
 
-> Travis Good is the Chief Privacy Officer.
+> Ben West is the Chief Privacy Officer.
 
 Who is the Chief Security Officer?
 - [ ] Mike Ortiz
-- [x] Ben Uphoff
+- [x] Ben West
 - [ ] Adam Leko
-- [ ] Travis Good
+- [ ] Robert Hopton
 
-> Ben Uphoff is the Chief Security Officer.
+> Ben West is the Chief Security Officer.
 
 
 
